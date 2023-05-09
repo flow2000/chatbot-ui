@@ -353,15 +353,7 @@ export const ChatInput: FC<Props> = ({
         </div>
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
-        需要定制同类网站 欢迎咨询qq
-        <a
-          href="https://res.abeim.cn/api/qq/?qq=1767033283"
-          target="_blank"
-          rel="noreferrer"
-          className="underline"
-        >
-          1767033283
-        </a>
+        玩得开心
         {t(
           "Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.",
         )}
